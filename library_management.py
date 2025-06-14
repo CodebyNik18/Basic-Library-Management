@@ -66,7 +66,7 @@ while True:
     elif ch == 3:
         person1.check()
     elif ch == 4:
-        print("Thank you...for visiting")
+        print("Thank you for visiting the Library...")
         break
     else:
-        print("Invalid option...")
+        print("Invalid option. Select Correct Option...")
